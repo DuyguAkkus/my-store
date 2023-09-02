@@ -1,5 +1,4 @@
-import React from 'react';
-import {StyleSheet, Dimensions} from 'react-native';
+import {StyleSheet} from 'react-native';
 
 export default StyleSheet.create({
   allContainer: {
@@ -11,7 +10,7 @@ export default StyleSheet.create({
   },
   headContainerText: {
     fontSize: 30,
-    color: '#00640',
+    color: '#008000',
     fontWeight: 'bold',
   },
   titleContainer: {
